@@ -125,7 +125,6 @@ My_Sidekick/
 ├── sidekick_notebook.ipynb    # Main application notebook
 ├── requirements.txt           # Python dependencies
 ├── .env                      # Environment variables (create this)
-├── token.pkl                 # Google Calendar auth token (auto-generated)
 ├── venv/                     # Virtual environment
 └── README.md                 # This file
 ```
