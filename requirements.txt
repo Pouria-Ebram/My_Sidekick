@@ -1,0 +1,57 @@
+# Core dependencies
+python-dotenv
+jupyterlab
+ipywidgets
+requests
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+openai
+gradio
+langchain
+tiktoken
+faiss-cpu
+langchain-openai
+langchain_experimental
+langchain_chroma
+langchain[docarray]
+datasets
+google-generativeai
+anthropic
+unstructured
+jupyter-dash
+beautifulsoup4
+pydub
+modal
+ollama
+accelerate
+bitsandbytes
+psutil
+setuptools
+speedtest-cli
+sentence_transformers
+feedparser
+langchain-community
+plotly
+pypdf
+chromadb
+
+# Additional packages found in notebook
+nest-asyncio
+playwright
+langgraph
+google-auth-oauthlib
+google-auth
+google-api-python-client
+typing-extensions
+pydantic
+ipython
+
+# ML/AI packages (install these separately if needed)
+# torch
+# transformers
+# gensim
+# sentencepiece
