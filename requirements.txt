@@ -1,4 +1,3 @@
-# Core dependencies
 python-dotenv
 jupyterlab
 ipywidgets
@@ -8,6 +7,9 @@ pandas
 scipy
 scikit-learn
 matplotlib
+gensim
+torch
+transformers
 tqdm
 openai
 gradio
@@ -19,8 +21,11 @@ langchain_experimental
 langchain_chroma
 langchain[docarray]
 datasets
+sentencepiece
+matplotlib
 google-generativeai
 anthropic
+scikit-learn
 unstructured
 jupyter-dash
 beautifulsoup4
@@ -28,6 +33,7 @@ pydub
 modal
 ollama
 accelerate
+sentencepiece
 bitsandbytes
 psutil
 setuptools
@@ -35,23 +41,7 @@ speedtest-cli
 sentence_transformers
 feedparser
 langchain-community
+langchain-openai
 plotly
 pypdf
 chromadb
-
-# Additional packages found in notebook
-nest-asyncio
-playwright
-langgraph
-google-auth-oauthlib
-google-auth
-google-api-python-client
-typing-extensions
-pydantic
-ipython
-
-# ML/AI packages (install these separately if needed)
-# torch
-# transformers
-# gensim
-# sentencepiece
